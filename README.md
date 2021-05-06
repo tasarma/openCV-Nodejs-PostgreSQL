@@ -1,2 +1,2 @@
-# openCV---Nodejs---PostgreSQL
+# openCV-Nodejs-PostgreSQL
 Object detection
